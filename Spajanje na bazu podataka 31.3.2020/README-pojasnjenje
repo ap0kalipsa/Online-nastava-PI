@@ -1,0 +1,7 @@
+db_html.php = pocetna stranica gdje se ispisuju podatci iz baze podataka, kao i forma za upis podataka
+
+dbconnection.php = kod potreban za spajanje na bazu
+
+dbupis.php = kod potreban za upis podataka u bazu
+
+rea_frankovic.sql = baza podataka
