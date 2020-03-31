@@ -10,7 +10,6 @@ $insertion = "INSERT INTO prodavaonica (ime_artikla, cijena_artikla, velicina_ar
                     VALUES ('$ime', '$cijena', '$velicina');";
 mysqli_query($connection, $insertion);
 
-//header("Location: db_html.php?upis=sucess");
 
 echo "Upis uspjesan.";
 
